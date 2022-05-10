@@ -14,3 +14,12 @@ Dicionário de dados:
 * is_attributed: o destino que deve ser previsto, indicando que o aplicativo foi baixado
 * click_id: referência para fazer previsões
 
+Alguns insights contidos no projeto:
+* Quais são os aplicativos com mais downloads?
+* Quais são os anúncios com mais downloads?
+* Qual o período do dia com mais downloads?
+
+Projeto desenvolvido com Algoritmo de Aprendizagem Supervisionada.
+
+Score do modelo no Kaggle: 0.88843 de acurácia.
+
